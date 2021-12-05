@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Froppy Snack Time</string>
+    <string name="key_pref_music_volume">50</string>
+</resources>
